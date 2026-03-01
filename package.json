@@ -1,0 +1,24 @@
+{
+  "name": "tds_ga3",
+  "version": "1.0.0",
+  "description": "[![Daily Auto Commit](https://github.com/24f1002263/tds_ga3/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/24f1002263/tds_ga3/actions/workflows/daily-commit.yml)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24f1002263/tds_ga3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/24f1002263/tds_ga3/issues"
+  },
+  "homepage": "https://github.com/24f1002263/tds_ga3#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
